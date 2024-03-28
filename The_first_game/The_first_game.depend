@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1711632511 source:c:\users\asus\desktop\game\the_first_game\main.cpp
+	"game.h"
+
+1711632386 c:\users\asus\desktop\game\the_first_game\game.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1711632201 source:c:\users\asus\desktop\game\the_first_game\startgame.cpp
+	"game.h"
+
